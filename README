@@ -1,5 +1,9 @@
 
 Hello world! I'm Andy.
 
+<<<<<<< HEAD
 THis a change for test commit!
 
+=======
+THis a change for test commit, Welcome!
+>>>>>>> foo_feature
