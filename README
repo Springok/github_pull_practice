@@ -1,9 +1,7 @@
 
-跟著Treehouse課程的Git實作練習
+跟著Treehouse課程的Git實作練習，新建檔案做commit，新開feature branch做完後，與master做merge，最後push到GitHub上。
 
-
-
-練習git指令
+本練習專案所使用的git指令
   -git status
   -git log
   -git add
